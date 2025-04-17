@@ -23,17 +23,16 @@ Purpose: To understand how completing a test preparation course affects student 
   - Is there a signficant gender gap in scores regardless of test prep completion?
   - Do students who don't complete test prep still achieve high scores in any cases?
   - How might test prep programs be optimized based on this data?
-<br>
-- Score by Parental Education
+-  Score by Parental Education
 <br>
 Purpose: To examine how a parent's level of education might influence and student's performance across subjects.
   - Do students with parents who have higher education consistently score better?
   - How does parental education affect each subject (Math, Reading, Writing) differently?
   - Are there noticable differenced in average scores between "pass" and "fail" groups based on parental education level?
-  -  Is the impact of parental education consitent across gender or race/ethnicity?
-  -  Are certain education levels more influential than others?
+  - Is the impact of parental education consitent across gender or race/ethnicity?
+  - Are certain education levels more influential than others?
 <br>
--  Studrent Count by Race and Gender
+- Student Count by Race and Gender
 <br>
   Purpose: To visualize the ditribution of performance results across racial/ethnic groups and gender.
   - Are certain race/ethnicity groups overrepresented in either high or low performance categories?
