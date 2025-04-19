@@ -38,4 +38,5 @@ Purpose: To visualize the distribution of performance results across racial and 
   - Are there equity or access issues suggested by this distribution?
   - How might this data inform targeted academic support?
 
-  ## Screenshots
+  ## Screenshot
+![image](https://github.com/user-attachments/assets/ac5f4497-25f0-48ac-ad15-ca858bca52f8)
